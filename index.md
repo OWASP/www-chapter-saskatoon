@@ -5,7 +5,7 @@ title: OWASP Saskatoon
 tags: saskatoon saskatchewan owasp
 region: North America
 country: Canada
-meetup-group: 
+meetup-group: owasp-saskatoon-chapter
 
 ---
 
