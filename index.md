@@ -5,7 +5,7 @@ title: OWASP Saskatoon
 tags: saskatoon saskatchewan owasp
 region: North America
 country: Canada
-meetup-group: owasp-saskatoon-chapter
+meetup-group: OWASP-Saskatoon-Chapter
 
 ---
 
@@ -26,3 +26,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+## Event Sponsors
+---------------------
+The following are companies that have provided meeting space for OWASP Saskatoon.
+
+[![Andgo Systems Logo](./assets/images/andgo.webp)](https://www.andgosystems.com)
