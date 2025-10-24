@@ -1,0 +1,24 @@
+leaders:
+  - name: Dallas Bobryk
+    email: dallas.bobryk@owasp.org
+  - name: Tyler Dewald
+    email: tyler.dewald@owasp.org
+    github: DewaldoDev
+location:
+  country: Canada
+  country_code: CA
+  region: Saskatchewan
+  city: Saskatoon
+  latitude: 52.131802
+  longitude: -106.660767
+meetup_group: OWASP-Saskatoon-Chapter
+name: OWASP Saskatoon
+repositories:
+  - name: www-chapter-saskatoon
+    url: https://github.com/OWASP/www-chapter-saskatoon
+    description: OWASP Foundation web repository
+tags:
+  - saskatoon
+  - saskatchewan
+  - owasp
+website: https://owasp.org/www-chapter-saskatoon
