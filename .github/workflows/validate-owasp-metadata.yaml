@@ -21,7 +21,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Validate metadata file
         uses: owasp/nest-schema/.github/actions/validate@9169aefdebd2d682c07ceb53ab623088db7350ca
